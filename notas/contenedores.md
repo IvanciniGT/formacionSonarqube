@@ -87,3 +87,8 @@ PASO 4: Arranco el mongo.
                                             
                                             
 docker cp contenedor:/datos /home/ubuntu/misdatos
+
+sudo su -
+sysctl -w vm.max_map_count=262144
+echo vm.max_map_count=262144 > /etc/sysctl.conf
+exit
