@@ -84,3 +84,6 @@ PASO 4: Arranco el mongo.
 ----> c:\archivos de programa\mongodb ---> .zip ---> email
                                             vv
                                             Imagen de contenedor
+                                            
+                                            
+docker cp contenedor:/datos /home/ubuntu/misdatos
