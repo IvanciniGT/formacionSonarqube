@@ -37,3 +37,7 @@ mvn archetype:generate \
     -DarchetypeArtifactId=maven-archetype-quickstart \
     -DarchetypeVersion=1.4 \
     -DinteractiveMode=false
+
+Sistema de control de versión       CVS
+
+Sistema de contol de código fuente  SCM

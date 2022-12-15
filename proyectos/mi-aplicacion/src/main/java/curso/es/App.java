@@ -4,7 +4,7 @@ public class App {
  
     public static void main( String[] args ) {
         System.out.println( "Hola manolo!" );
-        //System.out.println( App.sumar(1,5) ); // TRAZA 
+        //System.out.println( App.sumar(1,5) ); 
     }
 
     public static double sumar(double numero1 , double numero2) {
