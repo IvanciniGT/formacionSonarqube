@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: curso.es.AppTest
 -------------------------------------------------------------------------------
-Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.056 s - in curso.es.AppTest
+Tests run: 9, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.069 s <<< FAILURE! - in curso.es.AppTest
+test_mitad(curso.es.AppTest)  Time elapsed: 0.009 s  <<< FAILURE!
+java.lang.AssertionError: expected:<5.0> but was:<2.5>
+	at curso.es.AppTest.test_mitad(AppTest.java:55)
+
