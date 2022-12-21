@@ -1,0 +1,7 @@
+docker run \
+    --rm \
+    -e SONAR_HOST_URL="http://172.31.38.153:8080" \
+    -e SONAR_SCANNER_OPTS="-Dsonar.projectKey=GitGraph" \
+    -e SONAR_LOGIN="squ_10d52643b774f24dc0176f58bd56bae1eff0baf5" \
+    -v "$PWD:/usr/src" \
+    sonarsource/sonar-scanner-cli

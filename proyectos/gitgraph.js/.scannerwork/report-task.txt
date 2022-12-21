@@ -1,0 +1,6 @@
+projectKey=GitGraph
+serverUrl=http://172.31.38.153:8080
+serverVersion=9.7.1.62043
+dashboardUrl=http://172.31.38.153:8080/dashboard?id=GitGraph
+ceTaskId=AYU14gfLHIgf6DTabKVP
+ceTaskUrl=http://172.31.38.153:8080/api/ce/task?id=AYU14gfLHIgf6DTabKVP

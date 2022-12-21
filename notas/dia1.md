@@ -1,5 +1,7 @@
 # Cómo desarrollabamos software hace 20 años
 
+
+
 Metodologías: Waterfall (en cascada: Espiral, V)
 
 Se definian una serie de ETAPAS (FASES) por las que el proyecto iba avanzando.
